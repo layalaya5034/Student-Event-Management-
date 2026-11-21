@@ -74,7 +74,11 @@ SmartCampusEventManagementSystem/
 │   ├── PythonAnalysis.bat               (Direct Python analysis runner)
 │   └── DatabaseManagement.bat           (Direct database utilities launcher)
 │
-└── README.md
+├── SRS_Document.md                     (IEEE-830 Software Requirements Specification)
+├── visuals_dashboard.html              (Standalone Visual Analytics Web Dashboard)
+├── run_all.bat                         (Master Multi-Disciplinary Suite Launcher)
+├── push_to_github.bat                  (Git Push Helper Script)
+└── README.md                           (System Documentation)
 ```
 
 ---
