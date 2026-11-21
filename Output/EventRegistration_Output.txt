@@ -1,0 +1,99 @@
+
+============================================================
+                EVENT REGISTRATION MANAGEMENT
+============================================================
+1.  Register Student for Event
+2.  View All Registrations
+3.  Search Registration
+4.  Update Registration Details
+5.  Cancel Registration
+6.  View Event-wise Registrations
+7.  View Student-wise Registrations
+8.  View Today's Registrations
+9.  View Upcoming Event Registrations
+10. View Active Registrations
+11. View Cancelled Registrations
+12. View Waitlisted Registrations
+13. Check Event Availability
+14. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- EVENT REGISTRATIONS --------------------
+Reg ID       Student ID Student Name         Event ID   Event Name               Reg Date     Status    
+---------------------------------------------------------------------------------------------------------
+REG1102      STU101     Ravi Kumar K         EVT111     Cyber Security Conclave  2026-11-21   REGISTERED
+REG1101      STU096     Karthikeyan M        EVT111     Cyber Security Conclave  2026-11-21   REGISTERED
+REG1100      STU036     Bhavana Ramesh       EVT111     Cyber Security Conclave  2026-11-20   REGISTERED
+REG1099      STU006     Arun Kumar S         EVT111     Cyber Security Conclave  2026-11-20   REGISTERED
+REG1098      STU066     Dhivya Prakash V     EVT110     IoT Innovation Expo      2026-11-20   REGISTERED
+REG1097      STU117     Dinesh Kumar         EVT109     Sports Meet - Badminton  2026-11-20   REGISTERED
+REG1096      STU111     Aravind Balaji       EVT109     Sports Meet - Badminton  2026-11-19   REGISTERED
+REG1095      STU105     Manoj Prabhakar      EVT109     Sports Meet - Badminton  2026-11-18   REGISTERED
+REG1094      STU127     Saravanan Velu       EVT108     Cloud Computing Bootcamp 2026-11-21   REGISTERED
+REG1093      STU122     Janani Radhakrishnan EVT108     Cloud Computing Bootcamp 2026-11-21   REGISTERED
+REG1092      STU121     Akash Vijay          EVT108     Cloud Computing Bootcamp 2026-11-21   REGISTERED
+REG1091      STU120     Divya Bharathi       EVT108     Cloud Computing Bootcamp 2026-11-20   REGISTERED
+REG1090      STU119     Madhavan Parthiban   EVT108     Cloud Computing Bootcamp 2026-11-20   REGISTERED
+REG1089      STU108     Gowtham Chandran     EVT108     Cloud Computing Bootcamp 2026-11-20   REGISTERED
+REG1088      STU107     Deepika Nair         EVT108     Cloud Computing Bootcamp 2026-11-20   REGISTERED
+REG1087      STU102     Priya Dharshini      EVT108     Cloud Computing Bootcamp 2026-11-19   REGISTERED
+REG1086      STU101     Ravi Kumar K         EVT108     Cloud Computing Bootcamp 2026-11-19   REGISTERED
+REG1085      STU096     Karthikeyan M        EVT108     Cloud Computing Bootcamp 2026-11-19   REGISTERED
+REG1084      STU036     Bhavana Ramesh       EVT108     Cloud Computing Bootcamp 2026-11-18   REGISTERED
+REG1083      STU006     Arun Kumar S         EVT108     Cloud Computing Bootcamp 2026-11-18   REGISTERED
+REG1082      STU111     Aravind Balaji       EVT107     RoboWars Challenge       2026-11-16   REGISTERED
+REG1081      STU105     Manoj Prabhakar      EVT107     RoboWars Challenge       2026-11-16   REGISTERED
+REG1080      STU103     Karthik Sundaram     EVT107     RoboWars Challenge       2026-11-15   REGISTERED
+REG1079      STU066     Dhivya Prakash V     EVT107     RoboWars Challenge       2026-11-15   REGISTERED
+REG1078      STU102     Priya Dharshini      EVT106     Web Dev Hackathon        2026-11-16   REGISTERED
+REG1077      STU101     Ravi Kumar K         EVT106     Web Dev Hackathon        2026-11-16   REGISTERED
+REG1076      STU096     Karthikeyan M        EVT106     Web Dev Hackathon        2026-11-16   REGISTERED
+REG1075      STU036     Bhavana Ramesh       EVT106     Web Dev Hackathon        2026-11-15   REGISTERED
+REG1074      STU006     Arun Kumar S         EVT106     Web Dev Hackathon        2026-11-15   REGISTERED
+REG1073      STU123     Logeshwaran M        EVT105     AI & Deep Learning Talk  2026-11-13   REGISTERED
+---------------------------------------------------------------------------------------------------------
+Total Registrations displayed: 30
+
+Press Enter to continue...
+
+============================================================
+                EVENT REGISTRATION MANAGEMENT
+============================================================
+1.  Register Student for Event
+2.  View All Registrations
+3.  Search Registration
+4.  Update Registration Details
+5.  Cancel Registration
+6.  View Event-wise Registrations
+7.  View Student-wise Registrations
+8.  View Today's Registrations
+9.  View Upcoming Event Registrations
+10. View Active Registrations
+11. View Cancelled Registrations
+12. View Waitlisted Registrations
+13. Check Event Availability
+14. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 14
+[INFO] Returning to Main Menu...
+
+============================================================
+                EVENT REGISTRATION MANAGEMENT
+============================================================
+1.  Register Student for Event
+2.  View All Registrations
+3.  Search Registration
+4.  Update Registration Details
+5.  Cancel Registration
+6.  View Event-wise Registrations
+7.  View Student-wise Registrations
+8.  View Today's Registrations
+9.  View Upcoming Event Registrations
+10. View Active Registrations
+11. View Cancelled Registrations
+12. View Waitlisted Registrations
+13. Check Event Availability
+14. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 14
+[INFO] Returning to Main Menu...

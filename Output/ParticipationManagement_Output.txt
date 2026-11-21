@@ -1,0 +1,96 @@
+
+============================================================
+                 PARTICIPATION MANAGEMENT
+============================================================
+1.  Record Student Participation
+2.  View All Participation Records
+3.  Search Participation Record
+4.  Update Participation Details
+5.  View Student Participation History
+6.  View Event Participation Details
+7.  View Top Participating Students
+8.  View Students with Zero Participation
+9.  View Department-wise Participation
+10. View Year-wise Participation
+11. View Participation Rankings
+12. View Certificate Eligibility
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- PARTICIPATION RECORDS --------------------
+Part ID    Student ID Student Name         Event ID   Event Name               Outcome         Certificate 
+---------------------------------------------------------------------------------------------------------
+PAR1061    STU109     Swetha Krishnan      EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1060    STU107     Deepika Nair         EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1059    STU103     Karthik Sundaram     EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1058    STU101     Ravi Kumar K         EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1057    STU096     Karthikeyan M        EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1056    STU066     Dhivya Prakash V     EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1055    STU036     Bhavana Ramesh       EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1054    STU006     Arun Kumar S         EVT105     AI & Deep Learning Talk  PARTICIPATED    ISSUED      
+PAR1053    STU122     Janani Radhakrishnan EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1052    STU121     Akash Vijay          EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1051    STU120     Divya Bharathi       EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1050    STU114     Keerthana Natarajan  EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1049    STU113     Sanjay Mohan         EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1048    STU108     Gowtham Chandran     EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1047    STU102     Priya Dharshini      EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1046    STU101     Ravi Kumar K         EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1045    STU096     Karthikeyan M        EVT104     Coding Competition       PARTICIPATED    ISSUED      
+PAR1044    STU036     Bhavana Ramesh       EVT104     Coding Competition       RUNNER_UP       ISSUED      
+PAR1043    STU006     Arun Kumar S         EVT104     Coding Competition       WINNER          ISSUED      
+PAR1042    STU112     Harini Venkat        EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1041    STU106     Suresh Rajan         EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1040    STU105     Manoj Prabhakar      EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1039    STU102     Priya Dharshini      EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1038    STU101     Ravi Kumar K         EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1037    STU066     Dhivya Prakash V     EVT103     Cultural Fest - Choreo   PARTICIPATED    ISSUED      
+PAR1036    STU036     Bhavana Ramesh       EVT103     Cultural Fest - Choreo   WINNER          ISSUED      
+PAR1035    STU006     Arun Kumar S         EVT103     Cultural Fest - Choreo   RUNNER_UP       ISSUED      
+PAR1034    STU123     Logeshwaran M        EVT102     Python Workshop          PARTICIPATED    ISSUED      
+PAR1033    STU122     Janani Radhakrishnan EVT102     Python Workshop          PARTICIPATED    ISSUED      
+PAR1032    STU121     Akash Vijay          EVT102     Python Workshop          PARTICIPATED    ISSUED      
+---------------------------------------------------------------------------------------------------------
+Total Participation Records: 30
+
+Press Enter to continue...
+
+============================================================
+                 PARTICIPATION MANAGEMENT
+============================================================
+1.  Record Student Participation
+2.  View All Participation Records
+3.  Search Participation Record
+4.  Update Participation Details
+5.  View Student Participation History
+6.  View Event Participation Details
+7.  View Top Participating Students
+8.  View Students with Zero Participation
+9.  View Department-wise Participation
+10. View Year-wise Participation
+11. View Participation Rankings
+12. View Certificate Eligibility
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 13
+[INFO] Returning to Main Menu...
+
+============================================================
+                 PARTICIPATION MANAGEMENT
+============================================================
+1.  Record Student Participation
+2.  View All Participation Records
+3.  Search Participation Record
+4.  Update Participation Details
+5.  View Student Participation History
+6.  View Event Participation Details
+7.  View Top Participating Students
+8.  View Students with Zero Participation
+9.  View Department-wise Participation
+10. View Year-wise Participation
+11. View Participation Rankings
+12. View Certificate Eligibility
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 13
+[INFO] Returning to Main Menu...

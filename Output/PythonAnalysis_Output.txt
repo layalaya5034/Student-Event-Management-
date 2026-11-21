@@ -1,0 +1,74 @@
+
+============================================================
+                    PYTHON DATA ANALYSIS
+============================================================
+1.  Event Registration Distribution
+2.  Daily Registration Trends
+3.  Monthly Event Trends
+4.  Student Participation Analysis
+5.  Department-wise Participation Analysis
+6.  Year-wise Student Participation
+7.  Event Popularity Analysis
+8.  Most Registered Events
+9.  Least Registered Events
+10. Attendance Distribution
+11. Event-wise Attendance Percentage
+12. Top Participating Students
+13. Event Capacity Utilization
+14. Event Type Distribution
+15. Registration vs Attendance Analysis
+16. Certificate Eligibility Analysis
+17. Complete Data Analysis
+18. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 16
+[INFO] Launching Python engine via: C:\Users\sugirthan\AppData\Local\Programs\Python\Python313\python.exe
+
+[INFO] Executing Python Analysis Option 16 using real-time database records...
+
+--------------------------------------------------------------------------------
+                        CERTIFICATE ELIGIBILITY ANALYSIS
+--------------------------------------------------------------------------------
+Student ID Student Name         Event Name                Outcome         Certificate
+--------------------------------------------------------------------------------
+STU006     Arun Kumar S         Technical Symposium       WINNER          ISSUED
+STU036     Bhavana Ramesh       Technical Symposium       RUNNER_UP       ISSUED
+STU066     Dhivya Prakash V     Technical Symposium       PARTICIPATED    ISSUED
+STU096     Karthikeyan M        Technical Symposium       PARTICIPATED    ISSUED
+STU101     Ravi Kumar K         Technical Symposium       PARTICIPATED    ISSUED
+STU102     Priya Dharshini      Technical Symposium       PARTICIPATED    ISSUED
+STU103     Karthik Sundaram     Technical Symposium       PARTICIPATED    ISSUED
+STU104     Anitha Selvaraj      Technical Symposium       PARTICIPATED    ISSUED
+STU105     Manoj Prabhakar      Technical Symposium       PARTICIPATED    ISSUED
+STU107     Deepika Nair         Technical Symposium       PARTICIPATED    ISSUED
+--------------------------------------------------------------------------------
+Total Issued Certificates: 61 across 24 distinct students.
+
+[SUCCESS] Python analysis executed successfully.
+
+Press Enter to continue...
+
+============================================================
+                    PYTHON DATA ANALYSIS
+============================================================
+1.  Event Registration Distribution
+2.  Daily Registration Trends
+3.  Monthly Event Trends
+4.  Student Participation Analysis
+5.  Department-wise Participation Analysis
+6.  Year-wise Student Participation
+7.  Event Popularity Analysis
+8.  Most Registered Events
+9.  Least Registered Events
+10. Attendance Distribution
+11. Event-wise Attendance Percentage
+12. Top Participating Students
+13. Event Capacity Utilization
+14. Event Type Distribution
+15. Registration vs Attendance Analysis
+16. Certificate Eligibility Analysis
+17. Complete Data Analysis
+18. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 18
+[INFO] Returning to Main Menu...

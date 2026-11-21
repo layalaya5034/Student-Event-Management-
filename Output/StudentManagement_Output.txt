@@ -1,0 +1,156 @@
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 
+[WARNING] Input cannot be empty. Please enter a valid number.
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- ALL REGISTERED STUDENTS --------------------
+Student ID Register No  Student Name           Department                   Year   Email                    
+---------------------------------------------------------------------------------------------------------
+STU006     6            Arun Kumar S           Information Technology       3      arunkumar.it@vcet.edu    
+STU036     36           Bhavana Ramesh         Computer Science             2      bhavana.cse@vcet.edu     
+STU066     66           Dhivya Prakash V       Electronics and Communication 3      dhivya.ece@vcet.edu      
+STU096     96           Karthikeyan M          Information Technology       4      karthikeyan.it@vcet.edu  
+STU101     101          Ravi Kumar K           Information Technology       3      ravikumar.it@vcet.edu    
+STU102     102          Priya Dharshini        Computer Science             3      priyadharshini.cse@vcet.edu
+STU103     103          Karthik Sundaram       Electronics and Communication 2      karthik.ece@vcet.edu     
+STU104     104          Anitha Selvaraj        Electrical and Electronics   3      anitha.eee@vcet.edu      
+STU105     105          Manoj Prabhakar        Mechanical                   4      manoj.mech@vcet.edu      
+STU106     106          Suresh Rajan           Civil                        2      suresh.civil@vcet.edu    
+STU107     107          Deepika Nair           Information Technology       2      deepika.it@vcet.edu      
+STU108     108          Gowtham Chandran       Computer Science             4      gowtham.cse@vcet.edu     
+STU109     109          Swetha Krishnan        Electronics and Communication 3      swetha.ece@vcet.edu      
+STU110     110          Vignesh Subramanian    Electrical and Electronics   2      vignesh.eee@vcet.edu     
+STU111     111          Aravind Balaji         Mechanical                   3      aravind.mech@vcet.edu    
+STU112     112          Harini Venkat          Civil                        4      harini.civil@vcet.edu    
+STU113     113          Sanjay Mohan           Information Technology       1      sanjay.it@vcet.edu       
+STU114     114          Keerthana Natarajan    Computer Science             1      keerthana.cse@vcet.edu   
+STU115     115          Naveen Prasath         Electronics and Communication 4      naveen.ece@vcet.edu      
+STU116     116          Pavithra Devi          Electrical and Electronics   1      pavithra.eee@vcet.edu    
+STU117     117          Dinesh Kumar           Mechanical                   2      dinesh.mech@vcet.edu     
+STU118     118          Meenakshi Sundaram     Civil                        3      meenakshi.civil@vcet.edu 
+STU119     119          Madhavan Parthiban     Information Technology       4      madhavan.it@vcet.edu     
+STU120     120          Divya Bharathi         Computer Science             3      divyab.cse@vcet.edu      
+STU121     121          Akash Vijay            Information Technology       2      akash.it@vcet.edu        
+STU122     122          Janani Radhakrishnan   Computer Science             2      janani.cse@vcet.edu      
+STU123     123          Logeshwaran M          Electronics and Communication 3      logesh.ece@vcet.edu      
+STU124     124          Nandhini Ganesan       Electrical and Electronics   4      nandhini.eee@vcet.edu    
+STU125     125          Prasanna Venkatesh     Mechanical                   1      prasanna.mech@vcet.edu   
+STU126     126          Revathi Saravanan      Civil                        1      revathi.civil@vcet.edu   
+STU127     127          Saravanan Velu         Information Technology       3      saravanan.it@vcet.edu    
+STU128     128          Tharani Murugan        Computer Science             4      tharani.cse@vcet.edu     
+STU129     129          Varun Chakravarthy     Electronics and Communication 2      varun.ece@vcet.edu       
+STU130     130          Yamini Anand           Electrical and Electronics   3      yamini.eee@vcet.edu      
+---------------------------------------------------------------------------------------------------------
+Total Registered Students: 34
+
+Press Enter to continue...
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...
+
+============================================================
+                     STUDENT MANAGEMENT
+============================================================
+1.  Register New Student
+2.  View All Students
+3.  Search Student
+4.  Update Student Details
+5.  Delete Student
+6.  View Student Details
+7.  View Students by Department
+8.  View Students by Year of Study
+9.  View Student Event History
+10. View Student Attendance History
+11. View Student Participation Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...

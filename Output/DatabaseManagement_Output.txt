@@ -1,0 +1,63 @@
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 1
+-------------------- TEST DATABASE CONNECTION --------------------
+[SUCCESS] Database connection established successfully!
+Database Product : SQLite
+Product Version  : 3.46.1
+Driver Name      : SQLite JDBC
+Driver Version   : 3.46.1.0
+Database URL     : jdbc:sqlite:C:\Student event management\DBMS\smart_campus_events.db
+Database File    : C:\Student event management\DBMS\smart_campus_events.db
+
+Press Enter to continue...
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 11
+[INFO] Returning to Main Menu...
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 11
+[INFO] Returning to Main Menu...

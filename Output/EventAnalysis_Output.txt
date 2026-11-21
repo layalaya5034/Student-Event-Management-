@@ -1,0 +1,101 @@
+
+============================================================
+                  EVENT ANALYSIS & REPORTS
+============================================================
+1.  Daily Event Report
+2.  Weekly Event Report
+3.  Monthly Event Report
+4.  Student-wise Participation Report
+5.  Department-wise Participation Report
+6.  Year-wise Participation Report
+7.  Event-wise Registration Report
+8.  Event-wise Attendance Report
+9.  Event Popularity Analysis
+10. Most Registered Events
+11. Least Registered Events
+12. Top Participating Students
+13. Students with Zero Participation
+14. Attendance Percentage Analysis
+15. Event Capacity Utilization Analysis
+16. Event Type Distribution
+17. Student Participation Ranking
+18. Certificate Eligibility Report
+19. Registration Trend Analysis
+20. Attendance Trend Analysis
+21. Event Workload Analysis
+22. Generate Complete Event Report
+23. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 10
+-------------------- MOST REGISTERED EVENTS --------------------
+Rank     Event Name                       Registrations  
+---------------------------------------------------------
+1        Python Workshop                  20             
+2        Technical Symposium              19             
+3        Cloud Computing Bootcamp         12             
+4        Coding Competition               12             
+5        AI & Deep Learning Talk          9              
+---
+MOST POPULAR EVENT: Python Workshop
+
+Press Enter to continue...
+
+============================================================
+                  EVENT ANALYSIS & REPORTS
+============================================================
+1.  Daily Event Report
+2.  Weekly Event Report
+3.  Monthly Event Report
+4.  Student-wise Participation Report
+5.  Department-wise Participation Report
+6.  Year-wise Participation Report
+7.  Event-wise Registration Report
+8.  Event-wise Attendance Report
+9.  Event Popularity Analysis
+10. Most Registered Events
+11. Least Registered Events
+12. Top Participating Students
+13. Students with Zero Participation
+14. Attendance Percentage Analysis
+15. Event Capacity Utilization Analysis
+16. Event Type Distribution
+17. Student Participation Ranking
+18. Certificate Eligibility Report
+19. Registration Trend Analysis
+20. Attendance Trend Analysis
+21. Event Workload Analysis
+22. Generate Complete Event Report
+23. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 23
+[INFO] Returning to Main Menu...
+
+============================================================
+                  EVENT ANALYSIS & REPORTS
+============================================================
+1.  Daily Event Report
+2.  Weekly Event Report
+3.  Monthly Event Report
+4.  Student-wise Participation Report
+5.  Department-wise Participation Report
+6.  Year-wise Participation Report
+7.  Event-wise Registration Report
+8.  Event-wise Attendance Report
+9.  Event Popularity Analysis
+10. Most Registered Events
+11. Least Registered Events
+12. Top Participating Students
+13. Students with Zero Participation
+14. Attendance Percentage Analysis
+15. Event Capacity Utilization Analysis
+16. Event Type Distribution
+17. Student Participation Ranking
+18. Certificate Eligibility Report
+19. Registration Trend Analysis
+20. Attendance Trend Analysis
+21. Event Workload Analysis
+22. Generate Complete Event Report
+23. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 23
+[INFO] Returning to Main Menu...

@@ -1,0 +1,93 @@
+
+============================================================
+                  ATTENDANCE MANAGEMENT
+============================================================
+1.  Mark Student Attendance
+2.  View All Attendance Records
+3.  Search Attendance Record
+4.  Update Attendance
+5.  Mark Bulk Event Attendance
+6.  View Event-wise Attendance
+7.  View Student-wise Attendance
+8.  View Present Students
+9.  View Absent Students
+10. View Attendance Percentage
+11. View Event Attendance Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- ATTENDANCE DETAILS --------------------
+Att ID     Reg ID       Student ID Student Name         Event Name               Status     Date        
+---------------------------------------------------------------------------------------------------------
+ATT1069    REG1073      STU123     Logeshwaran M        AI & Deep Learning Talk  ABSENT     2026-11-20  
+ATT1068    REG1072      STU109     Swetha Krishnan      AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1067    REG1071      STU107     Deepika Nair         AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1066    REG1070      STU103     Karthik Sundaram     AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1065    REG1069      STU101     Ravi Kumar K         AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1064    REG1068      STU096     Karthikeyan M        AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1063    REG1067      STU066     Dhivya Prakash V     AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1062    REG1066      STU036     Bhavana Ramesh       AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1061    REG1065      STU006     Arun Kumar S         AI & Deep Learning Talk  PRESENT    2026-11-20  
+ATT1060    REG1064      STU122     Janani Radhakrishnan Coding Competition       PRESENT    2026-11-18  
+ATT1059    REG1063      STU121     Akash Vijay          Coding Competition       PRESENT    2026-11-18  
+ATT1058    REG1062      STU120     Divya Bharathi       Coding Competition       PRESENT    2026-11-18  
+ATT1057    REG1061      STU119     Madhavan Parthiban   Coding Competition       ABSENT     2026-11-18  
+ATT1056    REG1060      STU114     Keerthana Natarajan  Coding Competition       PRESENT    2026-11-18  
+ATT1055    REG1059      STU113     Sanjay Mohan         Coding Competition       PRESENT    2026-11-18  
+ATT1054    REG1058      STU108     Gowtham Chandran     Coding Competition       PRESENT    2026-11-18  
+ATT1053    REG1057      STU102     Priya Dharshini      Coding Competition       PRESENT    2026-11-18  
+ATT1052    REG1056      STU101     Ravi Kumar K         Coding Competition       PRESENT    2026-11-18  
+ATT1051    REG1055      STU096     Karthikeyan M        Coding Competition       PRESENT    2026-11-18  
+ATT1050    REG1054      STU036     Bhavana Ramesh       Coding Competition       PRESENT    2026-11-18  
+ATT1049    REG1053      STU006     Arun Kumar S         Coding Competition       PRESENT    2026-11-18  
+ATT1048    REG1051      STU112     Harini Venkat        Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1047    REG1050      STU111     Aravind Balaji       Cultural Fest - Choreo   ABSENT     2026-11-15  
+ATT1046    REG1049      STU106     Suresh Rajan         Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1045    REG1048      STU105     Manoj Prabhakar      Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1044    REG1047      STU102     Priya Dharshini      Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1043    REG1046      STU101     Ravi Kumar K         Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1042    REG1045      STU066     Dhivya Prakash V     Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1041    REG1044      STU036     Bhavana Ramesh       Cultural Fest - Choreo   PRESENT    2026-11-15  
+ATT1040    REG1043      STU006     Arun Kumar S         Cultural Fest - Choreo   PRESENT    2026-11-15  
+---------------------------------------------------------------------------------------------------------
+Total Attendance Records: 30
+
+Press Enter to continue...
+
+============================================================
+                  ATTENDANCE MANAGEMENT
+============================================================
+1.  Mark Student Attendance
+2.  View All Attendance Records
+3.  Search Attendance Record
+4.  Update Attendance
+5.  Mark Bulk Event Attendance
+6.  View Event-wise Attendance
+7.  View Student-wise Attendance
+8.  View Present Students
+9.  View Absent Students
+10. View Attendance Percentage
+11. View Event Attendance Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...
+
+============================================================
+                  ATTENDANCE MANAGEMENT
+============================================================
+1.  Mark Student Attendance
+2.  View All Attendance Records
+3.  Search Attendance Record
+4.  Update Attendance
+5.  Mark Bulk Event Attendance
+6.  View Event-wise Attendance
+7.  View Student-wise Attendance
+8.  View Present Students
+9.  View Absent Students
+10. View Attendance Percentage
+11. View Event Attendance Summary
+12. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 12
+[INFO] Returning to Main Menu...

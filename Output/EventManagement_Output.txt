@@ -1,0 +1,86 @@
+
+============================================================
+                      EVENT MANAGEMENT
+============================================================
+1.  Create New Event
+2.  View All Events
+3.  Search Event
+4.  Update Event Details
+5.  Delete Event
+6.  View Event Details
+7.  View Events by Category
+8.  View Upcoming Events
+9.  View Completed Events
+10. View Cancelled Events
+11. View Event Capacity
+12. View Most Popular Events
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- ALL CAMPUS EVENTS --------------------
+Event ID   Event Name                 Type           Date         Venue              Capacity   Status    
+----------------------------------------------------------------------------------------------------------
+EVT101     Technical Symposium        Symposium      2026-11-10   Auditorium         50         COMPLETED 
+EVT102     Python Workshop            Workshop       2026-11-12   Lab 2 (Computing)  20         COMPLETED 
+EVT117     Gaming Tournament - E-Sports Other          2026-11-14   Campus Center      20         CANCELLED 
+EVT103     Cultural Fest - Choreo     Cultural       2026-11-15   Open Air Theatre   40         COMPLETED 
+EVT120     Drone Flying Competition   Competition    2026-11-16   College Grounds    15         CANCELLED 
+EVT104     Coding Competition         Competition    2026-11-18   Lab 1 (MCA)        25         COMPLETED 
+EVT105     AI & Deep Learning Talk    Seminar        2026-11-20   Seminar Hall 1     30         COMPLETED 
+EVT106     Web Dev Hackathon          Technical      2026-11-21   Innovation Hub     20         ONGOING   
+EVT107     RoboWars Challenge         Competition    2026-11-21   Indoor Sports Hall 15         ONGOING   
+EVT108     Cloud Computing Bootcamp   Workshop       2026-11-22   Lab 3 (Networking) 12         OPEN      
+EVT109     Sports Meet - Badminton    Sports         2026-11-22   Badminton Court    16         OPEN      
+EVT110     IoT Innovation Expo        Technical      2026-11-22   ECE Project Lab    10         OPEN      
+EVT111     Cyber Security Conclave    Symposium      2026-11-25   Auditorium         40         UPCOMING  
+EVT112     Data Analytics Masterclass Workshop       2026-11-27   Lab 2 (Computing)  15         UPCOMING  
+EVT113     Guest Lecture: VLSI Design Seminar        2026-11-28   Seminar Hall 2     25         UPCOMING  
+EVT114     Green Energy Symposium     Symposium      2026-11-30   Auditorium         35         UPCOMING  
+EVT115     AutoCAD 3D Modeling Lab    Workshop       2026-12-02   CAD Lab            15         UPCOMING  
+EVT116     Smart City Infrastructure  Seminar        2026-12-05   Civil Seminar Room 30         UPCOMING  
+EVT118     Photography Showcase       Cultural       2026-12-10   Art Gallery        25         UPCOMING  
+EVT119     General Seminar on Ethics  Seminar        2026-12-12   Seminar Hall 1     20         UPCOMING  
+----------------------------------------------------------------------------------------------------------
+Total Events: 20
+
+Press Enter to continue...
+
+============================================================
+                      EVENT MANAGEMENT
+============================================================
+1.  Create New Event
+2.  View All Events
+3.  Search Event
+4.  Update Event Details
+5.  Delete Event
+6.  View Event Details
+7.  View Events by Category
+8.  View Upcoming Events
+9.  View Completed Events
+10. View Cancelled Events
+11. View Event Capacity
+12. View Most Popular Events
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 13
+[INFO] Returning to Main Menu...
+
+============================================================
+                      EVENT MANAGEMENT
+============================================================
+1.  Create New Event
+2.  View All Events
+3.  Search Event
+4.  Update Event Details
+5.  Delete Event
+6.  View Event Details
+7.  View Events by Category
+8.  View Upcoming Events
+9.  View Completed Events
+10. View Cancelled Events
+11. View Event Capacity
+12. View Most Popular Events
+13. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 13
+[INFO] Returning to Main Menu...
