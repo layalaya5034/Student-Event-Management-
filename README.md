@@ -75,6 +75,7 @@ SmartCampusEventManagementSystem/
 │   └── DatabaseManagement.bat           (Direct database utilities launcher)
 │
 ├── SRS_Document.md                     (IEEE-830 Software Requirements Specification)
+├── Test_Cases_Document.md              (Unit 4 Software Testing Suite & Verification)
 ├── visuals_dashboard.html              (Standalone Visual Analytics Web Dashboard)
 ├── run_all.bat                         (Master Multi-Disciplinary Suite Launcher)
 ├── push_to_github.bat                  (Git Push Helper Script)

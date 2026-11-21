@@ -56,8 +56,9 @@ echo ===========================================================================
 echo                    [1] SOFTWARE ENGINEERING AND SYSTEM ARCHITECTURE
 echo ===============================================================================
 echo.
-echo Opening SRS Document (SRS_Document.md), README.md, and DBMS Documentation...
+echo Opening SRS Document, Test Cases Document, README.md, and DBMS Documentation...
 start "" "%~dp0SRS_Document.md"
+start "" "%~dp0Test_Cases_Document.md"
 start "" "%~dp0README.md"
 start "" "%~dp0DBMS\Database Documentation\DBMS_Documentation.md"
 echo.
