@@ -204,6 +204,19 @@ The system completely replaces manual paperwork and fragmented spreadsheets with
                                                     (Administrator)
 ```
 
+### 7.3 Entity-Relationship (E-R) Data Model
+The system enforces strict referential integrity across 5 core entities: `STUDENTS`, `EVENTS`, `REGISTRATIONS`, `ATTENDANCE`, and `PARTICIPATIONS`.
+- **Cheney Notation Diagram File**: [E_R_Diagram.png](E_R_Diagram.png)
+- **Detailed Relational Algebra Specification**: [DBMS/Table Relationships/relationships.md](DBMS/Table%20Relationships/relationships.md)
+
+```mermaid
+erDiagram
+    STUDENTS ||--o{ REGISTRATIONS : "enrolls in (1:N)"
+    EVENTS ||--o{ REGISTRATIONS : "offers (1:N)"
+    REGISTRATIONS ||--o| ATTENDANCE : "verifies presence (1:1)"
+    REGISTRATIONS ||--o| PARTICIPATIONS : "records outcome (1:1)"
+```
+
 ---
 
 ## 8. CYCLOMATIC COMPLEXITY & WHITE-BOX TESTING

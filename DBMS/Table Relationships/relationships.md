@@ -4,6 +4,71 @@
 
 ---
 
+## 0. Entity-Relationship (E-R) Diagram
+The Entity-Relationship (E-R) model visually specifies all entities, attributes, primary/foreign keys, and relational cardinality for Scenario 6 in standard Cheney & Crow's Foot notations.
+
+### Academic Cheney Notation High-Resolution Diagram:
+![Entity-Relationship Diagram](E_R_Diagram.png)
+
+### Interactive Conceptual ER Diagram (Crow's Foot):
+```mermaid
+erDiagram
+    STUDENTS ||--o{ REGISTRATIONS : "enrolls in (1:N)"
+    EVENTS ||--o{ REGISTRATIONS : "offers (1:N)"
+    REGISTRATIONS ||--o| ATTENDANCE : "verifies presence (1:1)"
+    REGISTRATIONS ||--o| PARTICIPATIONS : "records outcome (1:1)"
+
+    STUDENTS {
+        string student_id PK
+        int register_number UK
+        string student_name
+        string department
+        int year_of_study
+        string email UK
+        string phone
+    }
+
+    EVENTS {
+        string event_id PK
+        string event_name
+        string event_type
+        string event_date
+        string venue
+        int max_participants
+        string event_status
+        string description
+    }
+
+    REGISTRATIONS {
+        string registration_id PK
+        string student_id FK
+        string event_id FK
+        string registration_date
+        string status
+    }
+
+    ATTENDANCE {
+        string attendance_id PK
+        string registration_id FK,UK
+        string student_id FK
+        string event_id FK
+        string attendance_date
+        string attendance_status
+    }
+
+    PARTICIPATIONS {
+        string participation_id PK
+        string registration_id FK,UK
+        string student_id FK
+        string event_id FK
+        string participation_status
+        string remarks
+        string certificate_status
+    }
+```
+
+---
+
 ## 1. Relational Schema Representation
 The schema is defined in BCNF (Boyce-Codd Normal Form) to eliminate update, insertion, and deletion anomalies.
 

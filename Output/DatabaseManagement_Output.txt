@@ -61,3 +61,85 @@ Enter your choice: [INPUT] Enter your choice:  -> 11
 ============================================================
 Enter your choice: [INPUT] Enter your choice:  -> 11
 [INFO] Returning to Main Menu...
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: 
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 2
+-------------------- DATABASE SUMMARY & STORAGE --------------------
+Database File Location         : C:\Student event management\DBMS\smart_campus_events.db
+Physical File Size             : 148.00 KB (151552 bytes)
+------------------------------------------------------------------
+Table / Entity       Total Records  
+------------------------------------------------------------------
+students             34             
+events               20             
+registrations        102            
+attendance           69             
+participations       61             
+------------------------------------------------------------------
+
+Press Enter to continue...
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 11
+[INFO] Returning to Main Menu...
+
+============================================================
+                    DATABASE MANAGEMENT
+============================================================
+1.  Test Database Connection
+2.  View Database Summary
+3.  View Student Records
+4.  View Event Records
+5.  View Registration Records
+6.  View Attendance Records
+7.  View Participation Records
+8.  View Database Relationships
+9.  View Event Statistics
+10. View Department Statistics
+11. Return to Main Menu
+============================================================
+Enter your choice: 

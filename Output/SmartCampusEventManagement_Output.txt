@@ -746,3 +746,103 @@ STU096         Karthikeyan M          4
 10. Return to Main Menu
 ============================================================
 Enter your choice: 
+============================================================
+            SMART CAMPUS EVENT MANAGEMENT SYSTEM
+               STUDENT PARTICIPATION ANALYSIS
+
+                         MAIN MENU
+
+1.  Dashboard
+2.  Student Management
+3.  Event Management
+4.  Event Registration Management
+5.  Attendance Management
+6.  Participation Management
+7.  Event Analysis & Reports
+8.  Python Data Analysis
+9.  Database Management
+10. Exit
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 10
+
+============================================================
+Exiting Smart Campus Event Management System. Goodbye!
+============================================================
+
+============================================================
+            SMART CAMPUS EVENT MANAGEMENT SYSTEM
+               STUDENT PARTICIPATION ANALYSIS
+
+                         MAIN MENU
+
+1.  Dashboard
+2.  Student Management
+3.  Event Management
+4.  Event Registration Management
+5.  Attendance Management
+6.  Participation Management
+7.  Event Analysis & Reports
+8.  Python Data Analysis
+9.  Database Management
+10. Exit
+============================================================
+Enter your choice: [INPUT] Enter your choice:  -> 10
+
+============================================================
+Exiting Smart Campus Event Management System. Goodbye!
+============================================================
+
+============================================================
+            SMART CAMPUS EVENT MANAGEMENT SYSTEM
+               STUDENT PARTICIPATION ANALYSIS
+
+                         MAIN MENU
+
+1.  Dashboard
+2.  Student Management
+3.  Event Management
+4.  Event Registration Management
+5.  Attendance Management
+6.  Participation Management
+7.  Event Analysis & Reports
+8.  Python Data Analysis
+9.  Database Management
+10. Exit
+============================================================
+Enter your choice: 
+============================================================
+            SMART CAMPUS EVENT MANAGEMENT SYSTEM
+               STUDENT PARTICIPATION ANALYSIS
+
+                         MAIN MENU
+
+1.  Dashboard
+2.  Student Management
+3.  Event Management
+4.  Event Registration Management
+5.  Attendance Management
+6.  Participation Management
+7.  Event Analysis & Reports
+8.  Python Data Analysis
+9.  Database Management
+10. Exit
+============================================================
+Enter your choice: 
+============================================================
+            SMART CAMPUS EVENT MANAGEMENT SYSTEM
+               STUDENT PARTICIPATION ANALYSIS
+
+                         MAIN MENU
+
+1.  Dashboard
+2.  Student Management
+3.  Event Management
+4.  Event Registration Management
+5.  Attendance Management
+6.  Participation Management
+7.  Event Analysis & Reports
+8.  Python Data Analysis
+9.  Database Management
+10. Exit
+============================================================
+Enter your choice: 

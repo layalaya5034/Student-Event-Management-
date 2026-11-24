@@ -76,6 +76,7 @@ SmartCampusEventManagementSystem/
 │
 ├── SRS_Document.md                     (IEEE-830 Software Requirements Specification)
 ├── Test_Cases_Document.md              (Unit 4 Software Testing Suite & Verification)
+├── E_R_Diagram.png                     (Academic Cheney & Crow's Foot E-R Diagram)
 ├── visuals_dashboard.html              (Standalone Visual Analytics Web Dashboard)
 ├── run_all.bat                         (Master Multi-Disciplinary Suite Launcher)
 ├── push_to_github.bat                  (Git Push Helper Script)
@@ -138,3 +139,71 @@ Enter your choice:
 4. **Certificate Eligibility**: Certificates are awarded only to students who were verified `PRESENT` and earned recognized participation status.
 5. **Safe Referential Integrity**: Student or event records with existing active registrations cannot be deleted accidentally.
 6. **Real-time Dual Output**: Every console output is simultaneously written to its dedicated file in `Output/` without locking or consuming interactive keyboard input.
+
+---
+
+## 6. ENTITY-RELATIONSHIP (E-R) DIAGRAM & DATABASE ARCHITECTURE
+The database schema is modeled in Boyce-Codd Normal Form (BCNF) to guarantee lossless joins and prevent modification anomalies.
+
+### High-Resolution Cheney Notation E-R Diagram
+![Entity-Relationship Diagram](E_R_Diagram.png)
+
+### Conceptual Schema (Crow's Foot Notation)
+```mermaid
+erDiagram
+    STUDENTS ||--o{ REGISTRATIONS : "enrolls in (1:N)"
+    EVENTS ||--o{ REGISTRATIONS : "offers (1:N)"
+    REGISTRATIONS ||--o| ATTENDANCE : "verifies presence (1:1)"
+    REGISTRATIONS ||--o| PARTICIPATIONS : "records outcome (1:1)"
+
+    STUDENTS {
+        string student_id PK
+        int register_number UK
+        string student_name
+        string department
+        int year_of_study
+        string email UK
+        string phone
+    }
+
+    EVENTS {
+        string event_id PK
+        string event_name
+        string event_type
+        string event_date
+        string venue
+        int max_participants
+        string event_status
+        string description
+    }
+
+    REGISTRATIONS {
+        string registration_id PK
+        string student_id FK
+        string event_id FK
+        string registration_date
+        string status
+    }
+
+    ATTENDANCE {
+        string attendance_id PK
+        string registration_id FK,UK
+        string student_id FK
+        string event_id FK
+        string attendance_date
+        string attendance_status
+    }
+
+    PARTICIPATIONS {
+        string participation_id PK
+        string registration_id FK,UK
+        string student_id FK
+        string event_id FK
+        string participation_status
+        string remarks
+        string certificate_status
+    }
+```
+
+Detailed relational algebra, entity cardinalities, and normal form proofs are documented in [DBMS/Table Relationships/relationships.md](DBMS/Table%20Relationships/relationships.md).
+
